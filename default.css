@@ -56,8 +56,13 @@
    ========================================================================== */
 	
 	a, 
+	a { 
+		text-decoration: none; 
+		color: #0fa0ce;  
+	}
+
 	a:visited { 
-		color: #444;  
+		color: #0fa0ce;  
 	}
 	
 	a:active {
